@@ -7,7 +7,7 @@ const registeredEmails = [
 
 // PASO PREVIO: Añadir un listener al formulario para el event 'submit', y ejecutar el event.preventDefault()
 
-// cuando capture el evneto 'submit', ejecuto la función 'gestionarSubmit'
+// cuando capture el evneto 'submit', ejecuto la funciónnnnnn 'gestionarSubmit'
 document
   .querySelector("#formulario-registro")
   .addEventListener("submit", gestionarSubmit);
